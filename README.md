@@ -23,8 +23,8 @@ A powerful network packet sniffer with an intuitive GUI built using Python, Tkin
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/mrbugsniffer/CodeAlpha-Basic-Network-Sniffer
-cd CodeAlpha-Basic-Network-Sniffer
+git clone https://github.com/mrbugsniffer/codealpha_tasks
+cd codealpha_tasks
 ```
 
 ### 2. Install dependencies
